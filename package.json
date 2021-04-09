@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pantchayan/Hackerrank-Automation#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "puppeteer": "^8.0.0"
   }
 }
